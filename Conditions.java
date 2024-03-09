@@ -38,6 +38,6 @@ public class Conditions{
         break;
         default :
         System.out.println("invalid");
-    }
+    }sc.close();
     }
 }

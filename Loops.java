@@ -35,6 +35,6 @@ public class Loops{
 //table of the given number
     for(int i=1;i<11;i++){
     System.out.println(n*i);
-    }
+    }sc.close();
     }
 }

@@ -13,6 +13,7 @@ class FourBuildingBlocks
         String name=sc.next();//prints only one token - veda for ben stokes it will only print ben
         System.out.println("name: "+name);
         String name1=sc.nextLine();//prints the string which is present in the whole line
+        sc.close();
 
     }
 }
