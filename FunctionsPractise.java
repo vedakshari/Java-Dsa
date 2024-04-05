@@ -140,5 +140,6 @@ public class FunctionsPractise {
                                         result=result*x;
                                 }
                                 System.out.println("The result is:" +result);*/
+                                sc.close();
                         }
                 }

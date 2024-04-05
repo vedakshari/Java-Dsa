@@ -36,5 +36,6 @@ public class Functions {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         factorial(n);
+        sc.close();
     }
 }
